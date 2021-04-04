@@ -10,7 +10,7 @@ http://automationpractice.com/index.php
 - Input email and password (seleniumisgood@mail.com/123456);
 - Check successful authentication;
 
-## Как запустить?
+## Run tests
 
 ```
 $ pip install -r requirements.txt
